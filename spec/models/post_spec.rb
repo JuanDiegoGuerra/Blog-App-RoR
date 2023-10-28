@@ -9,6 +9,11 @@ RSpec.describe Post, type: :model do
     Post.create(author: user, title: 'Hello', text: 'This is my first post')
   end
 
+  it 'should have the title present' do
+    subject.title = nil
+    expect(subject).to_not be_valid
+  end
+
   it 'Title must not be blank' do
     post.title = nil
     expect(subject).to_not be_valid

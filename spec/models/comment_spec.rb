@@ -24,4 +24,8 @@ RSpec.describe Comment, type: :model do
   it 'belongs to the post' do
     expect(comment.post).to eq(post)
   end
+
+  it 'updates post comments counter after save' do
+    expect { comment.save }.to change { post.reload.comments_counter }.by(1)
+  end
 end
