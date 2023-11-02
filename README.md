@@ -99,6 +99,7 @@ your default browser should be opened in this moment.
 
 - GitHub: [@JuanDiegoGuerra](https://github.com/JuanDiegoGuerra)
 - LinkedIn: [Juan Guerra](https://www.linkedin.com/in/juan-guerra-65076b1ba/)
+- Twitter: [TwitterHandle]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
