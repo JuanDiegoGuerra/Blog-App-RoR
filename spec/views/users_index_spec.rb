@@ -32,7 +32,6 @@ RSpec.describe 'users/index', type: :system do
     it 'redirects to the user show page' do
       visit users_path
       click_link user1.name
-
       expect(page).to have_current_path(user_path(user1))
     end
   end

@@ -48,13 +48,11 @@ RSpec.describe 'users/show', type: :system do
 
     it 'redirects to the post show page when a user post is clicked' do
       click_link('See post >', match: :first)
-
       expect(page).to have_current_path(user_post_path(user, post3))
     end
 
     it 'redirects to the post index page when see all post link is clicked' do
       click_link('See all posts')
-
       expect(page).to have_current_path(user_posts_path(user))
     end
   end
