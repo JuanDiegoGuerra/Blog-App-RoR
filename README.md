@@ -101,6 +101,13 @@ your default browser should be opened in this moment.
 - LinkedIn: [Juan Guerra](https://www.linkedin.com/in/juan-guerra-65076b1ba/)
 - Twitter: [TwitterHandle]()
 
+
+👨🏼‍🚀 **Abdelaziz Mahdi** 🐱‍👤
+
+- GitHub: [@Abdelaziz-Mahdi](https://github.com/Abdelaziz-Mahdi)
+- Twitter: [@_AbdelazizMahdi](https://twitter.com/_AbdelazizMahdi)
+- LinkedIn: [in/abdelaziz-mahdi](https://www.linkedin.com/in/abdelaziz-mahdi)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
