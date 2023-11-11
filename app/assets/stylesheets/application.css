@@ -225,3 +225,15 @@ a {
   align-self: flex-start;
   margin: 0;
 }
+
+.form-title {
+  text-align: center;
+}
+
+.new_user {
+  text-align: center;
+}
+
+.link-style {
+  margin-left: 40%;
+}
